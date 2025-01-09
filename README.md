@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I go to the University of California, San Diego wi
 ## 📈 GitHub Stats
 
 ![Jun-Hee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junismyname&show_icons=true&theme=radical)
-![Snake animation](https://github.com/Junismyname/Junismyname/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
