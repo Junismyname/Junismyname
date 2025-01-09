@@ -6,16 +6,16 @@ Welcome to my GitHub profile! I go to the University of California, San Diego wi
 
 - **Majorana Neutrino Hunt (Ongoing)**: Extracting parameters from raw waveforms to discriminate multi-site events (MSE) and improve energy reconstruction.
   
-- **Speech Emotion Recognition** ([Showcase]([https://drive.google.com/file/d/1g6Z6KEemH3BcP1AUWjN5yAszw8Bv_3aC/view])): Built a classifier that categorizes human emotion in audio signals under the mentorship of Professor Justin Eldridge.
+- **Speech Emotion Recognition** ([Showcase](https://drive.google.com/file/d/1g6Z6KEemH3BcP1AUWjN5yAszw8Bv_3aC/view)): Built a classifier that categorizes human emotion in audio signals under the mentorship of Professor Justin Eldridge.
   - Created and compared several models including CNN, Vision Transformation, Ensemble CNN, and SVM.
   - Achieved 0.76 accuracy and 0.78 precision in the top-performing model.
     
-- **Remote CO₂ Consumption** ([GitHub]([https://github.com/Junismyname/Remote-CO2-Emissions189])): 
+- **Remote CO₂ Consumption** ([GitHub](https://github.com/Junismyname/Remote-CO2-Emissions189)): 
   - Conducted an in-depth analysis on the environmental impact of remote work by examining CO₂ emissions across U.S. states from 2018 to 2021, integrating datasets from the U.S. Energy Information Administration and the Census Bureau.     
   - Findings demonstrated statistically significant emission reductions, supporting remote work policies as an effective sustainability measure.
   - Analyzed 50+ state datasets over 4 years, processed 10,000+ entries to assess remote work’s impact on CO₂ emissions, built a logistic regression model with 80.5% accuracy, and identified statistically significant emission reductions during 2020.
  
-- **Power Outage Causes** ([GitHub]([https://gabrielchasukjin.github.io/Power-Outage-Classification-Model/])):
+- **Power Outage Causes** ([GitHub](https://gabrielchasukjin.github.io/Power-Outage-Classification-Model/)):
    - Built a Decision Tree model using Scikit-Learn to classify the cause of severe power outages, which could aid energy companies in developing preventive measures and response plans, enhancing grid resilience.
    - Achieved an accuracy score of 0.827 and applied GridSearchCV to find the optimal hyperparameters and improved model accuracy by 3.92% on the validation dataset resulting in a total accuracy of 0.8.
 
