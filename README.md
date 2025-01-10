@@ -10,20 +10,18 @@ Welcome to my GitHub profile! I go to the University of California, San Diego wi
   - Created and compared several models including CNN, Vision Transformation, Ensemble CNN, and SVM.
   - Achieved 0.76 accuracy and 0.78 precision in the top-performing model.
     
-- **Remote CO₂ Consumption** ([GitHub](https://github.com/Junismyname/Remote-CO2-Emissions189)): 
-  - Conducted an in-depth analysis on the environmental impact of remote work by examining CO₂ emissions across U.S. states from 2018 to 2021, integrating datasets from the U.S. Energy Information Administration and the Census Bureau.     
+- **Remote CO₂ Consumption** ([GitHub](https://github.com/Junismyname/Remote-CO2-Emissions189)): Conducted an in-depth analysis on the environmental impact of remote work by examining CO₂ emissions across U.S. states from 2018 to 2021, integrating datasets from the U.S. Energy Information Administration and the Census Bureau.     
   - Findings demonstrated statistically significant emission reductions, supporting remote work policies as an effective sustainability measure.
   - Analyzed 50+ state datasets over 4 years, processed 10,000+ entries to assess remote work’s impact on CO₂ emissions, built a logistic regression model with 80.5% accuracy, and identified statistically significant emission reductions during 2020.
  
-- **Power Outage Causes** ([GitHub](https://gabrielchasukjin.github.io/Power-Outage-Classification-Model/)):
-   - Built a Decision Tree model using Scikit-Learn to classify the cause of severe power outages, which could aid energy companies in developing preventive measures and response plans, enhancing grid resilience.
+- **Power Outage Causes** ([GitHub](https://gabrielchasukjin.github.io/Power-Outage-Classification-Model/)): Built a Decision Tree model using Scikit-Learn to classify the cause of severe power outages, which could aid energy companies in developing preventive measures and response plans, enhancing grid resilience.
    - Achieved an accuracy score of 0.827 and applied GridSearchCV to find the optimal hyperparameters and improved model accuracy by 3.92% on the validation dataset resulting in a total accuracy of 0.8.
 
 ## 💡 Skills
 
 - **Programming Languages**: Python, R, MATLAB
 - **Machine Learning Frameworks**: Scikit-learn, TensorFlow, PyTorch
-- **Data Analysis**: NumPy, Pandas, Matplotlib, Beautiful Soup, Pyspark
+- **Data Analysis**: NumPy, Pandas, Matplotlib, Beautiful Soup, Pyspark, Dask, ArcGis
 
 ## 🌟 Experiences
 
