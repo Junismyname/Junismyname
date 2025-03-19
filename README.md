@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I graduated from the University of California, San
 ## 🔭 Projects
 
 - **Majorana Neutrino Hunt** ([Website](https://junismyname.github.io/MajoranaNeutrinoHunt-Website/)): Applied machine learning to Particle Physics. Studied time-series waveform data from the Majorana Demonstrator, extracting features and building models to identify neutrinoless double beta decay events and study matter-antimatter asymmetry.
-  - Processed over 2 million data entries, optimizing Random Forest, LightGBM, XGBoost, and CatBoost models with RandomizedSearchCV and SMOTE, achieving up to 99.4% accuracy and 96% F1-Score.
+  - Processed over 2 million data entries, optimizing Random Forest, LightGBM, XGBoost, and CatBoost models with RandomizedSearchCV and SMOTE, achieving up to 0.9940 accuracy and 0.9671 F1-Score.
   - Enhanced model interpretability through SHAP values and feature importance analyses for robust event prediction. 
   
 - **Speech Emotion Recognition** ([Showcase](https://drive.google.com/file/d/1g6Z6KEemH3BcP1AUWjN5yAszw8Bv_3aC/view)): Built a classifier that categorizes human emotion in audio signals under the mentorship of Professor Justin Eldridge.
@@ -39,11 +39,6 @@ Welcome to my GitHub profile! I graduated from the University of California, San
 
 - **LinkedIn**: [Jun-Hee Hwang](https://www.linkedin.com/in/jun-hee-hwang/)
 - **Email**: [lucasjunhee1221@gmail.com](mailto:lucasjunhee1221@gmail.com)
-
-## 📈 GitHub Stats
-
-![Jun-Hee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junismyname&show_icons=true&theme=radical)
-
 
 ---
 
