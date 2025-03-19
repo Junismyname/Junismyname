@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I graduated from the University of California, San
 ## 🌐 Let's Connect
 
 - **LinkedIn**: [Jun-Hee Hwang](https://www.linkedin.com/in/jun-hee-hwang/)
-- **Email**: [juh016@ucsd.ed](mailto:juh016@ucsd.edu)
+- **Email**: [lucasjunhee1221@gmail.com](mailto:lucasjunhee1221@gmail.com)
 
 ## 📈 GitHub Stats
 
