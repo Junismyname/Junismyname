@@ -1,6 +1,6 @@
 # Hi there! I'm Jun-Hee Hwang 👋
 
-Welcome to my GitHub profile! I go to the University of California, San Diego with a Data Science major. I am passionate about leveraging technology to solve real-world problems, with a focus on machine learning, data science, and software development. My work spans diverse domains, including neutrino physics, greenhouse gas emissions modeling, and predictive analytics.
+Welcome to my GitHub profile! I graduated from the University of California, San Diego with a Data Science major. I am passionate about leveraging technology to solve real-world problems, with a focus on machine learning, data science, and software development. My work spans diverse domains, including neutrino physics, greenhouse gas emissions modeling, and predictive analytics.
 
 ## 🔭 Projects
 
