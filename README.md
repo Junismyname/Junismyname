@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I go to the University of California, San Diego wi
 
 ## 🔭 Projects
 
-- **Majorana Neutrino Hunt**([Website](https://junismyname.github.io/MajoranaNeutrinoHunt-Website/)): Applied machine learning to Particle Physics. Studied time-series waveform data from the Majorana Demonstrator, extracting features and building models to identify neutrinoless double beta decay events and study matter-antimatter asymmetry.
+- **Majorana Neutrino Hunt** ([Website](https://junismyname.github.io/MajoranaNeutrinoHunt-Website/)): Applied machine learning to Particle Physics. Studied time-series waveform data from the Majorana Demonstrator, extracting features and building models to identify neutrinoless double beta decay events and study matter-antimatter asymmetry.
   - Processed over 2 million data entries, optimizing Random Forest, LightGBM, XGBoost, and CatBoost models with RandomizedSearchCV and SMOTE, achieving up to 99.4% accuracy and 96% F1-Score.
   - Enhanced model interpretability through SHAP values and feature importance analyses for robust event prediction. 
   
