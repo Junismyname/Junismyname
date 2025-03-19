@@ -4,7 +4,9 @@ Welcome to my GitHub profile! I go to the University of California, San Diego wi
 
 ## 🔭 Projects
 
-- **Majorana Neutrino Hunt (Ongoing)**: Extracting parameters from raw waveforms to discriminate multi-site events (MSE) and improve energy reconstruction.
+- **Majorana Neutrino Hunt**([Website](https://junismyname.github.io/MajoranaNeutrinoHunt-Website/)): Applied machine learning to Particle Physics. Studied time-series waveform data from the Majorana Demonstrator, extracting features and building models to identify neutrinoless double beta decay events and study matter-antimatter asymmetry.
+  - Processed over 2 million data entries, optimizing Random Forest, LightGBM, XGBoost, and CatBoost models with RandomizedSearchCV and SMOTE, achieving up to 99.4% accuracy and 96% F1-Score.
+  - Enhanced model interpretability through SHAP values and feature importance analyses for robust event prediction. 
   
 - **Speech Emotion Recognition** ([Showcase](https://drive.google.com/file/d/1g6Z6KEemH3BcP1AUWjN5yAszw8Bv_3aC/view)): Built a classifier that categorizes human emotion in audio signals under the mentorship of Professor Justin Eldridge.
   - Created and compared several models including CNN, Vision Transformation, Ensemble CNN, and SVM.
