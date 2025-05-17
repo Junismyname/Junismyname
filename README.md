@@ -26,6 +26,9 @@ Welcome to my GitHub profile! I graduated from the University of California, San
 - **Data Analysis**: NumPy, Pandas, Matplotlib, Beautiful Soup, Pyspark, Dask, ArcGis
 
 ## 🌟 Experiences
+- **Keywords Studios (Research Associate)**:
+  - Collaborated with a team of Data Specialists to fine-tune AI training prompts, enhancing model consistency and data accuracy in support of generative AI projects.
+  - Executed data collection and annotation tasks, providing quantitative and qualitative feedback to improve AI model performance and identifying areas for process optimization.
 
 - **GBCS Group (GHG Researcher Intern)**: 
   - Developed an AI model to predict CO₂ emissions across transportation lifecycle stages.
