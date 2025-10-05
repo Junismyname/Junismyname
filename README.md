@@ -37,7 +37,12 @@ Welcome to my GitHub profile! I graduated from the University of California, San
 - **Teaching & Learning Commons, University of California, San Diego (Experiential Learning Ambassador)**:
   - Created quarterly data visualizations about the university’s programs/positions and departments with the most/least opportunities using Excel, Python, Pandas, and Matplotlib.
   - Identified approximately 15,000 missing data entries from the university’s official data hub, representing around 7.92% of the dataset, significantly enhancing data accuracy and operational efficiency.
+## 📜 Certifications
 
+- **IBM Data Engineering Professional Certificate (IBM / Coursera)**:
+    - Issued Oct. 2025.
+    - Gained hands-on experience with Data Pipelines (ETL, Airflow, Kafka), Big Data (Spark, Hadoop), Data Warehousing, SQL/NoSQL databases, and Machine Learning with Spark.
+      
 ## 🌐 Let's Connect
 
 - **LinkedIn**: [Jun-Hee Hwang](https://www.linkedin.com/in/jun-hee-hwang/)
