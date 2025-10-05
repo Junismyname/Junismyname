@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I graduated from the University of California, San
   - Identified approximately 15,000 missing data entries from the university’s official data hub, representing around 7.92% of the dataset, significantly enhancing data accuracy and operational efficiency.
 ## 📜 Certifications
 
-- **IBM Data Engineering Professional Certificate (IBM / Coursera)**:
+- **IBM Data Engineering Professional Certificate (IBM / Coursera)** ([Show Credential](https://www.coursera.org/account/accomplishments/professional-cert/TKS3I2VAUXOQ)):
     - Issued Oct. 2025.
     - Gained hands-on experience with Data Pipelines (ETL, Airflow, Kafka), Big Data (Spark, Hadoop), Data Warehousing, SQL/NoSQL databases, and Machine Learning with Spark.
       
