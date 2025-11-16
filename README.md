@@ -3,7 +3,10 @@
 Welcome to my GitHub profile! I graduated from the University of California, San Diego with a Data Science major. I am passionate about leveraging technology to solve real-world problems, with a focus on machine learning, data science, and software development. My work spans diverse domains, including neutrino physics, greenhouse gas emissions modeling, and predictive analytics.
 
 ## 🔭 Projects
-
+- **LinkedIn Jobs Extractor** ([GitHub](https://github.com/Junismyname/linkedin_jobs_extractor)):
+  - Developed a serverless AWS Lambda function in Python that runs weekly to scrape LinkedIn, enriches job data with AWS Bedrock for LLM-powered skill extraction and classification, and writes the structured results to the live RDS database for analysis in a Looker Studio dashboard.
+  - Architected and deployed a complete, end-to-end data pipeline on AWS, using Terraform to provision a VPC, NAT Gateway, S3 bucket, and PostgreSQL RDS instance for a fully automated, event-driven workflow.
+    
 - **Majorana Neutrino Hunt** ([Website](https://junismyname.github.io/MajoranaNeutrinoHunt-Website/)): Applied machine learning to Particle Physics. Studied time-series waveform data from the Majorana Demonstrator, extracting features and building models to identify neutrinoless double beta decay events and study matter-antimatter asymmetry.
   - Processed over 2 million data entries, optimizing Random Forest, LightGBM, XGBoost, and CatBoost models with RandomizedSearchCV and SMOTE, achieving up to 0.9940 accuracy and 0.9671 F1-Score.
   - Enhanced model interpretability through SHAP values and feature importance analyses for robust event prediction. 
@@ -23,18 +26,23 @@ Welcome to my GitHub profile! I graduated from the University of California, San
 
 - **Programming Languages**: Python, R, MATLAB
 - **Machine Learning Frameworks**: Scikit-learn, TensorFlow, PyTorch
-- **Data Analysis**: NumPy, Pandas, Matplotlib, Beautiful Soup, Pyspark, Dask, ArcGis
+- **Data Analysis**: NumPy, Pandas, Matplotlib, Beautiful Soup, Pyspark, Dask, ArcGis, Looker Studio
+- **Development & Operations**: AWS Cloud Platform, IBM DB2
 
 ## 🌟 Experiences
-- **Keywords Studios (Research Associate)**:
+- **Boundary Remote Subsurface Solutions (Algorithms/Data Analytics Developer)**, June 2025 - Current:                            	                        		            	       		             
+  - Developed API pipeline through AWS API Gateway and Lambda to automatically process geospatial data requests, storing the resulting metadata and file locations in an ODC-compatible PostgreSQL database hosted on AWS for efficient spatiotemporal querying.
+  - Processed over 5,000 square kilometers of bathymetric and geological survey data, correlating it with CryoSat-2 interferometric radar altimetry measurements to create a unified hydrological and geological model for the project's primary Area of Interest (AOI).
+    
+- **Keywords Studios (Research Associate)**, May 2025 - Current:
   - Collaborated with a team of Data Specialists to fine-tune AI training prompts, enhancing model consistency and data accuracy in support of generative AI projects.
   - Executed data collection and annotation tasks, providing quantitative and qualitative feedback to improve AI model performance and identifying areas for process optimization.
 
-- **GBCS Group (GHG Researcher Intern)**: 
+- **GBCS Group (GHG Researcher Intern)**, April 2024 - March 2025: 
   - Developed an AI model to predict CO₂ emissions across transportation lifecycle stages.
   - Performed in-depth research on CO₂ emissions across roughly 50 diverse fleets in air, ground, and sea transport, examining emissions data across each lifecycle stage—yielding precise insights to inform sustainable fleet management practices.
   
-- **Teaching & Learning Commons, University of California, San Diego (Experiential Learning Ambassador)**:
+- **Teaching & Learning Commons, University of California, San Diego (Experiential Learning Ambassador)**, June 2024 - September 2024:
   - Created quarterly data visualizations about the university’s programs/positions and departments with the most/least opportunities using Excel, Python, Pandas, and Matplotlib.
   - Identified approximately 15,000 missing data entries from the university’s official data hub, representing around 7.92% of the dataset, significantly enhancing data accuracy and operational efficiency.
 ## 📜 Certifications
