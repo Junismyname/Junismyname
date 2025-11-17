@@ -38,11 +38,11 @@ Welcome to my GitHub profile! I graduated from the University of California, San
   - Collaborated with a team of Data Specialists to fine-tune AI training prompts, enhancing model consistency and data accuracy in support of generative AI projects.
   - Executed data collection and annotation tasks, providing quantitative and qualitative feedback to improve AI model performance and identifying areas for process optimization.
 
-- **GBCS Group (GHG Researcher Intern)**, April 2024 - March 2025: 
+- **GBCS Group (GHG Researcher Intern)**, April 2024 - September 2024: 
   - Developed an AI model to predict CO₂ emissions across transportation lifecycle stages.
   - Performed in-depth research on CO₂ emissions across roughly 50 diverse fleets in air, ground, and sea transport, examining emissions data across each lifecycle stage—yielding precise insights to inform sustainable fleet management practices.
   
-- **Teaching & Learning Commons, University of California, San Diego (Experiential Learning Ambassador)**, June 2024 - September 2024:
+- **Teaching & Learning Commons, University of California, San Diego (Experiential Learning Ambassador)**, June 2024 - March 2025:
   - Created quarterly data visualizations about the university’s programs/positions and departments with the most/least opportunities using Excel, Python, Pandas, and Matplotlib.
   - Identified approximately 15,000 missing data entries from the university’s official data hub, representing around 7.92% of the dataset, significantly enhancing data accuracy and operational efficiency.
 ## 📜 Certifications
