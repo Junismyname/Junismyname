@@ -1,8 +1,12 @@
-# Hi there! I'm Jun-Hee Hwang 👋
+# Hi there! I'm Jun-Hee Hwang
 
 Welcome to my GitHub profile! I graduated from the University of California, San Diego with a Data Science major. I am passionate about leveraging technology to solve real-world problems, with a focus on machine learning, data science, and software development. My work spans diverse domains, including neutrino physics, greenhouse gas emissions modeling, and predictive analytics.
 
-## 🔭 Projects
+## Projects
+- **Room Presence Detection System** ([GitHub](https://github.com/Junismyname/room-presence-yolo): Developed a real-time, fixed-camera human detection pipeline in PyTorch, engineered for hyper-accurate background subtraction and spatial coordinate regression.
+  - Architected a custom Dual-Head YOLO model using a partially unfrozen MobileNetV2 backbone, splitting feature extraction into dedicated confidence and bounding box heads optimized via Generalized Intersection over Union (GIoU) and BCE losses.
+  - Built an automated evaluation suite using OpenCV to benchmark custom architectures against zero-shot SOTA models (YOLO12, YOLO26), achieving 98.05% accuracy and 0.7773 Avg IoU at 60+ FPS.
+    
 - **LinkedIn Jobs Extractor** ([GitHub](https://github.com/Junismyname/linkedin_jobs_extractor)):
   - Developed a serverless AWS Lambda function in Python that runs weekly to scrape LinkedIn, enriches job data with AWS Bedrock for LLM-powered skill extraction and classification, and writes the structured results to the live RDS database for analysis in a Looker Studio dashboard.
   - Architected and deployed a complete, end-to-end data pipeline on AWS, using Terraform to provision a VPC, NAT Gateway, S3 bucket, and PostgreSQL RDS instance for a fully automated, event-driven workflow.
@@ -22,19 +26,19 @@ Welcome to my GitHub profile! I graduated from the University of California, San
 - **Power Outage Causes** ([GitHub](https://gabrielchasukjin.github.io/Power-Outage-Classification-Model/)): Built a Decision Tree model using Scikit-Learn to classify the cause of severe power outages, which could aid energy companies in developing preventive measures and response plans, enhancing grid resilience.
    - Achieved an accuracy score of 0.827 and applied GridSearchCV to find the optimal hyperparameters and improved model accuracy by 3.92% on the validation dataset resulting in a total accuracy of 0.8.
 
-## 💡 Skills
+## Skills
 
 - **Programming Languages**: Python, R, MATLAB
 - **Machine Learning Frameworks**: Scikit-learn, TensorFlow, PyTorch
 - **Data Analysis**: NumPy, Pandas, Matplotlib, Beautiful Soup, Pyspark, Dask, ArcGis, Looker Studio
 - **Development & Operations**: AWS Cloud Platform, IBM DB2
 
-## 🌟 Experiences
-- **Boundary Remote Subsurface Solutions (Algorithms/Data Analytics Developer)**, June 2025 - Current:                            	                        		            	       		             
+## Experiences
+- **Boundary Remote Subsurface Solutions (Algorithms/Data Analytics Developer)**, June 2025 - May 2026:                            	                        		            	       		             
   - Developed API pipeline through AWS API Gateway and Lambda to automatically process geospatial data requests, storing the resulting metadata and file locations in an ODC-compatible PostgreSQL database hosted on AWS for efficient spatiotemporal querying.
   - Processed over 5,000 square kilometers of bathymetric and geological survey data, correlating it with CryoSat-2 interferometric radar altimetry measurements to create a unified hydrological and geological model for the project's primary Area of Interest (AOI).
     
-- **Keywords Studios (Research Associate)**, May 2025 - Current:
+- **Keywords Studios (Automation Engineer, Research Associate)**, May 2025 - May 2026:
   - Collaborated with a team of Data Specialists to fine-tune AI training prompts, enhancing model consistency and data accuracy in support of generative AI projects.
   - Executed data collection and annotation tasks, providing quantitative and qualitative feedback to improve AI model performance and identifying areas for process optimization.
 
@@ -45,13 +49,13 @@ Welcome to my GitHub profile! I graduated from the University of California, San
 - **Teaching & Learning Commons, University of California, San Diego (Experiential Learning Ambassador)**, April 2024 - March 2025:
   - Created quarterly data visualizations about the university’s programs/positions and departments with the most/least opportunities using Excel, Python, Pandas, and Matplotlib.
   - Identified approximately 15,000 missing data entries from the university’s official data hub, representing around 7.92% of the dataset, significantly enhancing data accuracy and operational efficiency.
-## 📜 Certifications
+## Certifications
 
 - **IBM Data Engineering Professional Certificate (IBM / Coursera)** ([Show Credential](https://www.coursera.org/account/accomplishments/professional-cert/TKS3I2VAUXOQ)):
     - Issued Oct. 2025.
     - Gained hands-on experience with Data Pipelines (ETL, Airflow, Kafka), Big Data (Spark, Hadoop), Data Warehousing, SQL/NoSQL databases, and Machine Learning with Spark.
       
-## 🌐 Let's Connect
+## Let's Connect
 
 - **LinkedIn**: [Jun-Hee Hwang](https://www.linkedin.com/in/jun-hee-hwang/)
 - **Email**: [lucasjunhee1221@gmail.com](mailto:lucasjunhee1221@gmail.com)
