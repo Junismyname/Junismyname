@@ -3,7 +3,8 @@
 Welcome to my GitHub profile! I graduated from the University of California, San Diego with a Data Science major. I am passionate about leveraging technology to solve real-world problems, with a focus on machine learning, data science, and software development. My work spans diverse domains, including neutrino physics, greenhouse gas emissions modeling, and predictive analytics.
 
 ## Projects
-- **Room Presence Detection System** ([GitHub](https://github.com/Junismyname/room-presence-yolo): Developed a real-time, fixed-camera human detection pipeline in PyTorch, engineered for hyper-accurate background subtraction and spatial coordinate regression.
+- **Room Presence Detection System** ([GitHub](https://github.com/Junismyname/room-presence-yolo)):
+  - Developed a real-time, fixed-camera human detection pipeline in PyTorch, engineered for hyper-accurate background subtraction and spatial coordinate regression.
   - Architected a custom Dual-Head YOLO model using a partially unfrozen MobileNetV2 backbone, splitting feature extraction into dedicated confidence and bounding box heads optimized via Generalized Intersection over Union (GIoU) and BCE losses.
   - Built an automated evaluation suite using OpenCV to benchmark custom architectures against zero-shot SOTA models (YOLO12, YOLO26), achieving 98.05% accuracy and 0.7773 Avg IoU at 60+ FPS.
     
