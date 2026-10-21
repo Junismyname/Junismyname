@@ -42,6 +42,10 @@ Welcome to my GitHub profile! I graduated from the University of California, San
 - **Keywords Studios (Automation Engineer, Research Associate)**, May 2025 - May 2026:
   - Collaborated with a team of Data Specialists to fine-tune AI training prompts, enhancing model consistency and data accuracy in support of generative AI projects.
   - Executed data collection and annotation tasks, providing quantitative and qualitative feedback to improve AI model performance and identifying areas for process optimization.
+  - Owned the end-to-end development lifecycle of enterprise tools (PRISM, PITCH, Spotlight, RA Distribution) supporting 500+ users, from requirements gathering, UI/UX, architecture, and ERD/database design through APIs, frontend, testing, and production deployment.
+  - Engineered a cache-warming and prefetch system (5-hour warm-up jobs) that cut cold-start runtime from 170–274 seconds to 32 seconds, a reduction of over 80% (5–8x faster).
+  - Built a lightweight SQL-like database engine on Google Apps Script with concurrent writes, foreign keys, constraints, and indexing for structured storage ahead of a full migration, plus a Gmail API integration for threaded automated notifications.
+  - Resolved a critical data-deletion issue through custom logging, trigger tracing, and audit debugging, and added monitoring and debugging infrastructure that improved observability and root-cause analysis speed.
 
 - **GBCS Group (GHG Researcher Intern)**, June 2024 - September 2024: 
   - Developed an AI model to predict CO₂ emissions across transportation lifecycle stages.
