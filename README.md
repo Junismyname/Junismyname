@@ -16,9 +16,10 @@ Welcome to my GitHub profile! I graduated from the University of California, San
   - Processed over 2 million data entries, optimizing Random Forest, LightGBM, XGBoost, and CatBoost models with RandomizedSearchCV and SMOTE, achieving up to 0.9940 accuracy and 0.9671 F1-Score.
   - Enhanced model interpretability through SHAP values and feature importance analyses for robust event prediction. 
   
-- **Speech Emotion Recognition** ([Showcase](https://drive.google.com/file/d/1g6Z6KEemH3BcP1AUWjN5yAszw8Bv_3aC/view)): Built a classifier that categorizes human emotion in audio signals under the mentorship of Professor Justin Eldridge.
-  - Created and compared several models including CNN, Vision Transformation, Ensemble CNN, and SVM.
-  - Achieved 0.76 accuracy and 0.78 precision in the top-performing model.
+- **Speech Emotion Recognition** ([Showcase](https://drive.google.com/file/d/1g6Z6KEemH3BcP1AUWjN5yAszw8Bv_3aC/view)): Built a classifier that recognizes 7 emotions in speech across 4 datasets (12K recordings, 121 speakers). Extended a project started under the mentorship of Professor Justin Eldridge.
+  - Identified data leakage (duplicate files, augmentation before the train/test split, shared speakers) that inflated accuracy by 35 points, and rebuilt evaluation on a speaker-independent split.
+  - Fine-tuned WavLM and Vision Transformer models and combined them in a validation-weighted ensemble, reaching 85.2% accuracy (85.4% macro F1) on unseen speakers, up from a 63% honest baseline.
+  - Compared 8 models (SVM, Random Forest, CNNs, ViT, WavLM, ensemble) and deployed them in a Streamlit app for live microphone inference.
     
 - **Remote CO₂ Consumption** ([GitHub](https://github.com/Junismyname/Remote-CO2-Emissions189)): Conducted an in-depth analysis on the environmental impact of remote work by examining CO₂ emissions across U.S. states from 2018 to 2021, integrating datasets from the U.S. Energy Information Administration and the Census Bureau.     
   - Findings demonstrated statistically significant emission reductions, supporting remote work policies as an effective sustainability measure.
