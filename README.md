@@ -52,11 +52,11 @@ Welcome to my GitHub profile! I graduated from the University of California, San
  
 - **Boundary Remote Subsurface Solutions (Algorithms/Data Analytics Developer)**, June 2025 - May 2026:
   - Built 4 of the 16 data-source extractors in the team's geospatial data platform for subsurface exploration, covering hyperspectral imagery, radar imagery, geologic maps, and bathymetry.
+  - Developed an API pipeline on AWS API Gateway and Lambda that processes geospatial data requests and stores result metadata and file locations in PostgreSQL RDS instance for spatiotemporal queries.
   - Engineered an EnMAP hyperspectral pipeline that searches DLR's STAC catalog (58 scenes over a target acreage), downloads with retries and checksum verification, removes the VNIR/SWIR overlap and water-vapor bands, masks cloud, shadow and snow, harmonizes radiometry across overlapping scenes, and exports analysis-ready Zarr cubes chunked for per-pixel mineral mapping.
   - Automated Sentinel-1 radar processing, from ASF search and HyP3 terrain-corrected (RTC) jobs to histogram-matched, feathered mosaics with texture and lineament layers for geological interpretation and STAC metadata for provenance.
   - Developed a geologic-map extractor that pages through the USGS State Geologic Map Compilation in 2° tiles, normalizes formations and faults into one schema with equal-area and geodesic areas, maps fault–formation intersections, and adds join keys for linking well, seismic, heat-flow and petrophysics data.
   - Built bathymetry extractors for the GEBCO 2024 and SDUST2023 global grids on a shared base class, with lazy chunked loading, area-of-interest cropping across longitude conventions, and GeoTIFF/JSON export for a Gulf of Mexico study area.
-  - Developed an API pipeline on AWS API Gateway and Lambda that processes geospatial data requests and stores result metadata and file locations in an ODC-compatible PostgreSQL database for spatiotemporal queries.
 
 - **GBCS Group (GHG Researcher Intern)**, June 2024 - September 2024: 
   - Developed an AI model to predict CO₂ emissions across transportation lifecycle stages.
