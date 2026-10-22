@@ -7,6 +7,11 @@ Welcome to my GitHub profile! I graduated from the University of California, San
   - Identified data leakage (duplicate files, augmentation before the train/test split, shared speakers) that inflated accuracy by 35 points, and rebuilt evaluation on a speaker-independent split.
   - Fine-tuned WavLM and Vision Transformer models and combined them in a validation-weighted ensemble, reaching 85.2% accuracy (85.4% macro F1) on unseen speakers, up from a 63% honest baseline.
   - Compared 8 models (SVM, Random Forest, CNNs, ViT, WavLM, ensemble) and deployed them in a Streamlit app for live microphone inference.
+ 
+- **Repo Onboarding Bot** ([GitHub](https://github.com/Junismyname/repo-onboarding-bot)): Built a self-hosted retrieval-augmented generation (RAG) system that answers questions about any GitHub repository with clickable, line-level citations, serving the LLM (Qwen2.5-Coder-7B via vLLM), embedding model, and vector database (Qdrant) on a single 12 GB consumer graphic card.
+  - Designed code-aware retrieval (tree-sitter chunking, separate code and docs search, file outlines, follow-up question rewriting), raising top-1 file recall from 28% to 65%, file-structure question accuracy from 33% to 85%, and follow-up resolution from 8/15 to 15/15.
+  - Built 5 evaluation suites (20-configuration retrieval ablation, citation grounding, file structure, multi-turn, setup commands) that overturned common assumptions: hybrid search and re-rankers lowered accuracy, and an fp8 KV cache raised throughput at a measurable cost to answer grounding.
+  - Served it through a FastAPI backend with a streaming web UI and load-tested it with Locust: 3.6 s median answer for a single user and zero failures at 16 concurrent users, after fixing bottlenecks including a 15 s CPU re-ranker and a 2 s Windows IPv6 delay on every connection.
     
 - **Room Presence Detection System** ([GitHub](https://github.com/Junismyname/room-presence-yolo)):
   - Developed a real-time, fixed-camera human detection pipeline in PyTorch, engineered for hyper-accurate background subtraction and spatial coordinate regression.
